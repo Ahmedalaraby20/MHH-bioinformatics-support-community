@@ -46,6 +46,12 @@ cd cellranger-8.0.1
 export PATH=$(pwd):$PATH  # this is a temporary option; for a permanent solution, copy this into the bashrc file in your home directory
 ```
 
+Test the installation:
+```bash
+cd ..
+cellranger --version
+```
+
 ## Downloading and Untarring References
 Human GEX
 ```bash
@@ -69,3 +75,5 @@ Mouse VDJ
 wget "https://cf.10xgenomics.com/supp/cell-vdj/refdata-cellranger-vdj-GRCm38-alts-ensembl-7.0.0.tar.gz"
 tar -xvf refdata-cellranger-vdj-GRCm38-alts-ensembl-7.0.0.tar.gz
 ```
+
+
