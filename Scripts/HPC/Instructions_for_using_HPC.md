@@ -16,18 +16,20 @@ Install the following (Call 7777 if you need help):
    - Username and password: Use the credentials you use to login to your computer/webmail.
    
 3. Once logged in, you will land in your home directory:
-   ![Home Directory](images/home_directory.png)
+![winscp 2](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp2.JPG)
    
 4. Navigate to your project group directory by clicking on the "Open Directory" button:
-   ![Open Directory](images/open_directory.png)
+![winscp 3](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp3.JPG)
    
 5. Write down the project directory, e.g., `/project/ag-singlecellsummer2024/`:
-   ![Project Directory](images/project_directory.png)
+![winscp 4](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp4.JPG)
    
 6. Once in the project directory, you can copy files to and from the directory by dragging and dropping.
 
 7. To access the terminal, click on the PuTTY button:
-   ![PuTTY](images/putty_button.png)
+![winscp 6](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp6.JPG)
+![winscp 7](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp7.JPG)
+
 
 ## b) Use Windows Terminal SSH
 
