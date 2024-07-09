@@ -9,7 +9,6 @@ Welcome to the MHH Bioinformatics Support Community GitHub repository! This repo
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [Issues and Support](#issues-and-support)
-- [License](#license)
 
 ## Introduction
 
@@ -39,37 +38,16 @@ The repository is organized into the following main sections:
 
 ## Contributing
 
-We welcome contributions from the community! To contribute, please follow these guidelines:
-
-1. **Fork the repository** to your GitHub account.
-2. **Clone your fork** to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/MHH-bioinformatics-support-community.git
-    ```
-3. **Create a new branch** for your feature or bug fix:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-4. **Make your changes** and commit them with descriptive messages:
-    ```bash
-    git commit -m "Add new feature: description"
-    ```
-5. **Push your changes** to your fork:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-6. **Submit a pull request** to the main repository. Include a detailed description of your changes and any relevant issues or discussions.
+We welcome contributions from the community! To contribute, please Submit a pull request to the main repository. Include a detailed description of your changes and any relevant issues or discussions.
+alternatively, you can just email me with your requests/suggestions
 
 ## Issues and Support
 
 If you encounter any issues, have questions, or need support, please open an issue in the repository. Please provide as much detail as possible to help us understand and address your problem.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Thank you for being a part of the MHH Bioinformatics Support Community! Together, we can advance bioinformatics research and innovation.
+Thank you for being a part of the MHH Bioinformatics Support Community!
 
 For more information, don't hesitate to contact us at [ahmed.hassan@mh.hannover.de](mailto:ahmed.hassan@mh.hannover.de).
