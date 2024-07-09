@@ -5,7 +5,7 @@
 #use the next lines to (download) pull whichever container you want to use #in here I am pulling the latest version of the Bioconductor container
 #Login to the HPC (see instructions to use HPC)
 #make sure you are in the project directory 
-##cd /project/your-ag-name/ #in my case /project/ag-georgiev/
+#cd /project/your-ag-name/ #in my case /project/ag-georgiev/
 #make a new directory called Rstudio 
 mkdir Rstudio
 #go into the new directory
@@ -13,3 +13,12 @@ cd Rstudio
 #pull your container in my case I will get the Bioconductor container and save it as name.sif
 singularity pull bioconductor.sif docker://bioconductor/bioconductor_docker
 #Thats it 
+
+
+```bash
+#make a new directory called Rstudio 
+mkdir Rstudio
+#go into the new directory
+cd Rstudio
+#pull your container in my case I will get the Bioconductor container and save it as name.sif
+singularity pull bioconductor.sif docker://bioconductor/bioconductor_docker
