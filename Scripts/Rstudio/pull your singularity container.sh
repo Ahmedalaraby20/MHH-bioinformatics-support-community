@@ -1,4 +1,4 @@
-```bash
+```
 #make a new directory called Rstudio 
 mkdir Rstudio
 #go into the new directory
