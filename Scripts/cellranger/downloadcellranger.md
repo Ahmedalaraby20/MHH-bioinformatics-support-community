@@ -10,7 +10,7 @@ Cellranger contains several pipelines including:
 - **multi**: Analyzes multiplexed data or combined gene expression/immune profiling/feature barcode data.
 
 Depending on your experiment setup, it might be better to use one pipeline over the other.
-![Picture here]
+![pipelines](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/assets/pipelines.png)
 
 Cellranger is available in binary form (very nice and does not require admin rights for installation).
 
