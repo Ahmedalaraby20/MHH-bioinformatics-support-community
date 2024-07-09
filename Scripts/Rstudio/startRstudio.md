@@ -4,7 +4,7 @@ Rstudio server is not installed on the HPC due to privacy concerns. To run Rstud
 
 Download either:
 - [RstudioCPU](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/Scripts/Rstudio/startrstudio.sbatch)
-- or
+ or
 - [RstudioGPU](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/Scripts/Rstudio/startrstudioGPU.sbatch)
 
 Copy it to the directory with the Singularity container.
