@@ -19,3 +19,10 @@ cd Rstudio
 
 # Pull your container. In this case, I will get the Bioconductor container and save it as 'bioconductor.sif':
 singularity pull bioconductor.sif docker://bioconductor/bioconductor_docker
+
+
+### Explanation:
+- **Markdown Syntax**: The triple backticks (\``` and ```) are used to denote a code block in Markdown.
+- **Comments**: Each line starts with `#`, indicating comments in bash scripting for clarity.
+- **Formatting**: Instructions are broken down into clear steps, ensuring readability and understanding.
+- **Link**: The Bioconductor Docker Hub URL is formatted as a clickable link within the text.
