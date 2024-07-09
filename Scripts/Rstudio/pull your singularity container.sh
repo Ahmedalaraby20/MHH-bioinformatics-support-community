@@ -1,4 +1,3 @@
-```
 # Before starting with Rstudio, download a container that has both R and Rstudio installed.
 # There are plenty of options, but if you want to work with Seurat or packages installed from Bioconductor, I would strongly suggest using the Bioconductor container.
 # For a detailed tutorial, visit [Bioconductor Docker Hub](https://hub.docker.com/r/bioconductor/bioconductor_docker).
@@ -19,4 +18,3 @@ cd Rstudio
 
 # Pull your container. In this case, I will get the Bioconductor container and save it as 'bioconductor.sif':
 singularity pull bioconductor.sif docker://bioconductor/bioconductor_docker
-```
