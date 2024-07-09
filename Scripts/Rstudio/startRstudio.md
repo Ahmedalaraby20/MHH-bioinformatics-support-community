@@ -51,7 +51,12 @@ When done using Rstudio Server, terminate the job by:
 INFO:    Converting SIF file to temporary sandbox...
 WARNING: underlay of /etc/rstudio/rsession.sh required more than 50 (137) bind mounts
 ```
-5. Start a terminal and paste "ssh -N -L 8787:leinewr009:41110 ahmedhas@leinelogin01.mh-hannover.local"
+5. Start a terminal and paste 
+
+```
+"ssh -N -L 8787:leinewr009:41110 ahmedhas@leinelogin01.mh-hannover.local"
+```
+
 6. Start your browser and paste "http://localhost:8787"
 7. Fill in the username and the password to login
 8. Once you are done end your session 
