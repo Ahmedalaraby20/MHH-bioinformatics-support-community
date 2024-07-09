@@ -30,10 +30,12 @@ Install the following (Call 7777 if you need help):
 ![winscp 6](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp6.JPG)
 ![winscp 7](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/raw/main/assets/winscp7.JPG)
 
+For more information please consult WinSCP documentation  - [WinSCP documentation](https://winscp.net/eng/docs/start)
+
 
 ## b) Use Windows Terminal SSH
 
-Open terminal in Windows and run the following command, then enter your password:
+Open the terminal in Windows and run the following command, then enter your password:
 ```bash
 ssh username@login.cluster.mh-hannover.local
 ```
