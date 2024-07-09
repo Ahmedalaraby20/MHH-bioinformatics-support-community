@@ -1,7 +1,7 @@
 # Singularity containers
 - Before starting with Rstudio, download a container that has both R and Rstudio installed.
 - There are plenty of options, but if you want to work with Seurat or packages installed from Bioconductor, I would strongly suggest using the [Bioconductor container](https://hub.docker.com/r/bioconductor/bioconductor_docker).
-- In the HPC, Docker cannot be used due to privacy concerns; instead, we use Singularity, an alternative to Docker.
+- In MHH HPC, Docker cannot be used due to privacy concerns; instead, we use Singularity, an alternative to Docker.
 
 ```bash
 # Use the following lines to download/pull whichever container you want to use. Here, I am pulling the latest version of the Bioconductor container:
