@@ -32,7 +32,7 @@ cellranger count --id=$(whoami)_cellrangeroutputs --transcriptome=/project/ag-si
            --localmem=64
 ```
 
-# Check the output directory
+#### Check the output directory
 ```bash
 cd $(whoami)_cellrangeroutputs
 ls
