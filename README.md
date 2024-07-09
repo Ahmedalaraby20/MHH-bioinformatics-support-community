@@ -39,7 +39,7 @@ The repository is organized into the following main sections:
 ## Contributing
 
 We welcome contributions from the community! To contribute, please Submit a pull request to the main repository. Include a detailed description of your changes and any relevant issues or discussions.
-alternatively, you can just email me with your requests/suggestions
+alternatively, you can just email me with your requests/suggestions.
 
 ## Issues and Support
 
