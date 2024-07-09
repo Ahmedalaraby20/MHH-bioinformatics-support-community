@@ -21,5 +21,6 @@ srun -p leinecpu --job-name="hisat2" -c6 --mem-per-cpu=8000M --pty --time=02:00:
 ```
 
 Here, I've requested 6 CPU cores, each with 8GB of RAM from the leinecpu partition, for 2 hours to perform some Hisat2 annotation.
+More information about srun can be found here  [Slurm Commands](https://slurm.schedmd.com/srun.html)
 
 Once the resources are allocated, navigate to the directory where your data is located and start your task.
