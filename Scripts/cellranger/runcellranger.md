@@ -34,6 +34,20 @@ cellranger count --id=$(whoami)_cellrangeroutputs --transcriptome=/project/ag-si
 
 #### Check the output directory
 ```bash
-cd $(whoami)_cellrangeroutputs
+cd $(whoami)_cellrangeroutputs/outs
 ls
+analysis                       possorted_genome_bam.bam
+cloupe.cloupe                  possorted_genome_bam.bam.bai
+filtered_feature_bc_matrix     raw_feature_bc_matrix
+filtered_feature_bc_matrix.h5  raw_feature_bc_matrix.h5
+metrics_summary.csv            web_summary.html
+molecule_info.h5
 ```
+You can view the  `web_summary.html` to have the first glimpse of your run, cell numbers, sequencing saturation and other parameters. 
+
+https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/assets/web_summary.html
+- [example](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/assets/web_summary.html)
+
+
+
+
