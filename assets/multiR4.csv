@@ -1,0 +1,37 @@
+[gene-expression],,
+reference,/project/ag-georgiev/PILTdata/cellranger/refdata-gex-mm10-2020-A,
+expect-cells,10000,
+[vdj],,
+reference,/project/ag-georgiev/PILTdata/cellranger/refdata-cellranger-vdj-GRCm38-alts-ensembl-7.0.0/,
+[feature],,
+reference,/project/ag-georgiev/PILTdata/feature_ref.csv,
+[libraries],,
+fastq_id,fastqs,feature_types
+C1_a-AK942_HWKLNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/Newn/,gene expression
+C1_b-AK943_HWKLNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/Newn/,gene expression
+C1_c-AK944_HWKLNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/Newn/,gene expression
+C1_d-AK945_HWKLNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/Newn/,gene expression
+C1_a-AK942_HWNVTDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_a-AK942_HYCMNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_b-AK943_HWNVTDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_b-AK943_HYCMNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_c-AK944_HWNVTDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_c-AK944_HYCMNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_d-AK945_HWNVTDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+C1_d-AK945_HYCMNDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F003/01.RawDataNew/,gene expression
+A1_a-AK8854_HVFNJDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_a-AK8854_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_b-AK2692_HVFNJDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_b-AK2692_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_c-AK8855_HVFNJDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_c-AK8855_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_d-AK8856_HVFNJDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+A1_d-AK8856_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,antibody capture
+B1_a-AK938_HW7V7DSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_a-AK938_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_b-AK939_HW7V7DSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_b-AK939_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_c-AK940_HW7V7DSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_c-AK940_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_d-AK941_HW7V7DSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
+B1_d-AK941_HWKTVDSX5,/project/ag-georgiev/PILTdata/X204SC23030199-Z01-F001/01.RawData/,Vdj-t
