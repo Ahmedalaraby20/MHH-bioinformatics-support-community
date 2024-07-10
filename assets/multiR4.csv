@@ -1,6 +1,8 @@
 [gene-expression],,
 reference,/project/ag-georgiev/PILTdata/cellranger/refdata-gex-mm10-2020-A,
 expect-cells,10000,
+create-bam,true
+
 [vdj],,
 reference,/project/ag-georgiev/PILTdata/cellranger/refdata-cellranger-vdj-GRCm38-alts-ensembl-7.0.0/,
 [feature],,
