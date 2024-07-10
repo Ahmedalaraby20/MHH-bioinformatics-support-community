@@ -45,8 +45,10 @@ molecule_info.h5
 ```
 You can view the  `web_summary.html` to have the first glimpse of your run, cell numbers, sequencing saturation and other parameters. 
 
-https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/assets/web_summary.html
 - [example](https://github.com/Ahmedalaraby20/MHH-bioinformatics-support-community/blob/main/assets/web_summary.html)
+
+
+
 
 
 
