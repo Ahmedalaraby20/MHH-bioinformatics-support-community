@@ -3,7 +3,7 @@
 #SBATCH --signal=USR2
 #SBATCH -p leinecpu
 #SBATCH -c8
-#SBATCH --mem-per-cpu=8G
+#SBATCH --mem-per-cpu=4G
 #SBATCH --job-name="Rstudio"
 username="$(whoami)"
 base_dir="$(pwd)"
